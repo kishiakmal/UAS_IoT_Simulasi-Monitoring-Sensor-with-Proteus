@@ -1,0 +1,19 @@
+[MENYAMBUNGKAN ARDUINO MENGGUNAKAN PROTEUS KE WEBSITE]
+
+Tools yang digunakan
+- Arduino Ide
+- Proteus
+- VSPE
+- Website (kita menggunakan Blynk.io)
+
+Langkah-Langkah
+1. Siapkan semua tools yg diperlukan
+2. Buat Kerangka Model pada Proteus
+3. Buat Website sederhana menggunakan Blynk.io
+4. Siapkan Codingan pada Arduino Ide
+5. Konfigurasikan file codingan dari Arduino ide pada model didalam Proteus
+6. Jalankan VSPE menggunakan konfigurasi pair
+7. Jalankan file blynk-ser pada folder Arduino>libraries>Blynk>scripts untuk 
+menyambungkan website kita di Blynk dengan code kita di Proteus
+8. Jalankan Start pada proteus
+9. Sensor sudah terhubung dengan website
